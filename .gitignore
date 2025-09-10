@@ -1,4 +1,4 @@
-open_ai_creds.json
+open_ai_api_creds.json
 *.pyc
 __pycache__/
 .claude/
